@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "973886845768",
+    "firebase_url": "https://taxcompdb-default-rtdb.firebaseio.com",
+    "project_id": "taxcompdb",
+    "storage_bucket": "taxcompdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973886845768:android:d91abab020b72ebf0ff97d",
+        "android_client_info": {
+          "package_name": "com.example.responsivedashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SsNp4ESI_u93djkVfIEyM5FC8UPHLx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
