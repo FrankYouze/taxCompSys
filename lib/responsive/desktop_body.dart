@@ -101,15 +101,15 @@ final amountCon2 = TextEditingController();
                                 Text("REGISTER NEW CARD",style: TextStyle(fontSize: 25,color: Colors.blue,fontWeight: FontWeight.bold),),
                             Padding(
                               padding: const EdgeInsets.all(8.0),
-                              child: MyTextField(controller: fullNameCon, myText: "enter full name", obscu: true),
+                              child: MyTextField(controller: fullNameCon, myText: "enter full name", obscu: false),
                             ),
                             Padding(
                               padding: const EdgeInsets.all(8.0),
-                              child: MyTextField(controller: PhoneCon, myText: "enter phone number", obscu: true),
+                              child: MyTextField(controller: PhoneCon, myText: "enter phone number", obscu: false),
                             ),
                             Padding(
                               padding: const EdgeInsets.all(8.0),
-                              child: MyTextField(controller: cardNumberCon, myText: "enter card ID", obscu: true),
+                              child: MyTextField(controller: cardNumberCon, myText: "enter card ID", obscu: false),
                             ),
                             Padding(
                               padding: const EdgeInsets.all(8.0),
